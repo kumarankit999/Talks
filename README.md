@@ -18,7 +18,7 @@ This repository will host most (if not all) of the talks (conferences, presentat
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
-| 27/04/2024 | Community Catalyst | [How Microsoft Products leverages Developer's Life](Links) |
+| 27/03/2024 | Community Catalyst | [How Microsoft Products leverages Developer's Life](Links) |
 
 
 ## Podcasts/Articles/etc. (Appearances & Hosting)
