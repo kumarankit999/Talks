@@ -12,13 +12,13 @@ This repository will host most (if not all) of the talks (conferences, presentat
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| Date | Conference Name | [ Session Name](Link) |
+| 29/04/2024 | CNCF Vadodara Meetup | [ Let's get Started with Kubernetes](Link) |
 
 ## Past Talks
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
-| Date | Conference Name | [Session Tittle](Links) |
+| 27/04/2024 | Community Catalyst | [How Microsoft Products leverages Developer's Life](Links) |
 
 
 ## Podcasts/Articles/etc. (Appearances & Hosting)
