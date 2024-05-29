@@ -12,7 +12,7 @@ This repository will host most (if not all) of the talks (conferences, presentat
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| 29/04/2024 | CNCF Vadodara Meetup | [ Let's get Started with Kubernetes](Link) |
+| 30/05/2024 | CNCF Vadodara Meetup | [ Unlocking the Secrets of CNCF Landscape](https://community.cncf.io/events/details/cncf-cloud-native-vadodara-presents-unlocking-the-secrets-of-cncf-landscape-a-beginners-guide-to-mastering-the-stages-of-cloud-native/)|
 
 ## Past Talks
 
