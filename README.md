@@ -12,7 +12,7 @@ This repository will host most (if not all) of the talks (conferences, presentat
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| 04/08/2024 | CNCG Bihar Orientation | [ From Enthusiast to CNCF Ambassador: The CNCF Journey with LFX Support](https://community.cncf.io/events/details/cncf-cloud-native-bihar-presents-cncf-bihar-chapter-cloud-native-orientation-kickoff/)|
+| 04/09/2025 | CNCG Vadodara CTENcf | [ AI & ML into Cloud native ecosystem](https://community.cncf.io/events/)|
 
 ## Past Talks
 
@@ -24,6 +24,9 @@ Date|Conference/Meetup|Talk
 | 21/07/2024 | Let's Cloud | [Skyrocketing Your Career with Azure: Master the Cloud Fundamentals](https://lu.ma/ww9mfhua) |
 | 24/07/2024 | MLSA Meetup | [ Use GitHub Copilot and Azure with me](https://mvp.microsoft.com/studentambassadors/)|
 | 28/07/2024 | CNCF Gurugram July Meetup | [ How to Leverage Kubernetes as a Student](https://community.cncf.io/cloud-native-gurugram/)|
+| 04/08/2024 | CNCG Bihar Orientation | [ From Enthusiast to CNCF Ambassador: The CNCF Journey with LFX Support](https://community.cncf.io/events/details/cncf-cloud-native-bihar-presents-cncf-bihar-chapter-cloud-native-orientation-kickoff/)|
+| 31/05/2025 | CNCG Vadodara Event | [How AI/ML workloads align with the CNCF ecosystem](https://community.cncf.io/events/details/cncf-cloud-native-vadodara-presents-how-does-ai-fit-into-the-cncf-landscape/)|
+
 
 
 ## Podcasts/Articles/etc. (Appearances & Hosting)
